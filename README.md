@@ -101,4 +101,4 @@ Python · Pandas · NumPy · Scikit-learn
 
 ## 📫 Connect With Me
 
-LinkedIn: [](https://www.linkedin.com/in/hansalexander/)  
+LinkedIn: [https://www.linkedin.com/in/hansalexander/](https://www.linkedin.com/in/hansalexander/)  
